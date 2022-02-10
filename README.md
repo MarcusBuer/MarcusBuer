@@ -1,6 +1,3 @@
-<!--
-![I am a Frontend Developer and Mechanical Engineer, currently living in Brazil.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
--->
 # Olá 👋, sou Marcus Buer
 Um Desenvolvedor por amor e Engenheiro Mecânico por formação.
 
@@ -10,7 +7,8 @@ Eu ❤️ aprender e criar coisas que coloquem um sorriso no rosto das pessoas.
 * ⚛️ React
 * 📱 React Native
 * 💄 Sass, Styled Components
-* 💻 HTML, CSS, Javascript, Node.JS e bancos de dados
+* 💻 HTML, CSS, Javascript
+* 🗄️ Node.JS, Express e bancos de dados (PostgreSQL, MariaDB, MySQL e MongoDB)
 
 ## Entre em contato
 [<img src='https://github.com/MarcusBuer/MarcusBuer/raw/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcusbuer/)
